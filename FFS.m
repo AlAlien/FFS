@@ -1,7 +1,7 @@
 function score = FFS(image1, image2)
 % ========================================================================
-% FFS Index with automatic downsampling, Version 1.0£¬2020.6.23
-% Copyright(c) 2019 Chenyang Shi£¬Yandan Lin
+% FFS Index with automatic downsampling, Version 1.0Â£Â¬2020.6.23
+% Copyright(c) 2019 Chenyang ShiÂ£Â¬Yandan Lin
 % All Rights Reserved.
 %
 % ----------------------------------------------------------------------
@@ -15,8 +15,8 @@ function score = FFS(image1, image2)
 % this software for any purpose. It is provided "as is" without express
 % or implied warranty.
 %----------------------------------------------------------------------
-% 
-% 
+% Shi Chenyang, Lin Yandan. Image Quality Assessment Based on Three 
+% Features Fusion in Three Fusion Steps. Symmetry. 2022; 14(4):773.
 %----------------------------------------------------------------------
 %
 %Input : (1) image1: the first image being compared, which is a RGB image
